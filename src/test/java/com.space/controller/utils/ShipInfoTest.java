@@ -69,4 +69,19 @@ public class ShipInfoTest {
                 ", prodYear=" + prodYear +
                 '}';
     }
+
+//    @Override
+//    public String toString() {
+//        return "ShipInfoTest{" +
+//                "id=" + id +
+//                ", name='" + name + '\'' +
+//                ", planet='" + planet + '\'' +
+//                ", shipType=" + shipType +
+//                ", prodDate=" + prodDate +
+//                ", isUsed=" + isUsed +
+//                ", speed=" + speed +
+//                ", crewSize=" + crewSize +
+//                ", rating=" + rating +
+//                '}';
+//    }
 }
